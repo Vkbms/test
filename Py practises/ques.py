@@ -14,4 +14,5 @@ a,b=b,a
       #2nd method
 print("Val of a after swaaping:", a)
 print("VAl of b after swapping:",b)
-
+c= 24
+d = 2345
